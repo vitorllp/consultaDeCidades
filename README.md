@@ -1,7 +1,7 @@
 # consultaDeCidades
 
 Projeto prático do Curso JavaDeveloper. 
-Feito para aprendizado, sem fins lucrativos.
+Feito para aprendizado
 
 Recursos utilizados
 - Spring boot
